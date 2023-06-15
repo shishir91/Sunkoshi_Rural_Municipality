@@ -2,10 +2,9 @@
 
 Simple website with CRUD operation. You can add, remove and edit informations after login.
 
-Visit: http://sunkoshi.infinityfreeapp.com/
+## Visit
+http://sunkoshi.infinityfreeapp.com/
 
-admin login credentials  
-
-username: admin
-
+## Admin login credentials  
+username: admin <br>
 password: admin
